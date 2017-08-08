@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0 (2)">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/lib/jsoup-1.7.1.jar" sourcepath="C:/lib/jsoup-1.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/WorkSpace/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/lib/openlogic-jexcel-api-2.6.12-all-src-1.zip"/>
+	<classpathentry kind="lib" path="C:/lib/j2ee.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-jee-kepler-RC3-win32/eclipse/plugins/org.apache.commons.discovery_0.2.0.v201004190315/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-jee-kepler-RC3-win32/eclipse/plugins/javax.wsdl_1.6.2.v201012040545.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-jee-kepler-RC3-win32/eclipse/plugins/org.apache.commons.logging_1.1.1.v201101211721.jar"/>
+	<classpathentry kind="lib" path="C:/lib/classes12.zip"/>
+	<classpathentry kind="lib" path="C:/lib/ojdbc5.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

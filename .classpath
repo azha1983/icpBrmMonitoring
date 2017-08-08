@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/WorkSpace/IcpBrmException/WebContent/WEB-INF/lib/jsch-0.1.53.jar"/>
+	<classpathentry kind="lib" path="C:/lib/jsoup-1.7.1.jar" sourcepath="C:/lib/jsoup-1.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/lib/j2ee.jar"/>
+	<classpathentry kind="lib" path="C:/lib/openlogic-jexcel-api-2.6.12-all-src-1.zip"/>
+	<classpathentry kind="lib" path="C:/WorkSpace/IcpBrmException/WebContent/WEB-INF/lib/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="C:/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.apache.commons.logging_1.1.1.v201101211721.jar"/>
+	<classpathentry kind="lib" path="C:/lib/pcm.jar"/>
+	<classpathentry kind="lib" path="C:/lib/pcmext.jar"/>
+	<classpathentry kind="lib" path="C:/lib/tmCustomFields.jar"/>
+	<classpathentry kind="lib" path="C:/lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/lib/ojdbc14.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
